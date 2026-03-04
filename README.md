@@ -1,11 +1,11 @@
-# python-selenium-automation/
-│
-├── drivers/              # Browser drivers (if required)
-├── scripts/              # Selenium automation scripts
-├── screenshots/          # Screenshots captured during execution
-├── pytest_tests/         # PyTest test cases
-├── requirements.txt      # Project dependencies
-└── README.md             # Project documentation
+# 🛠️ Technologies Used
+```
+Python 3
+Selenium WebDriver
+PyTest
+WebDriver Manager
+Chrome / Firefox / Edge Browsers
+```
 
 # Create Virtual Environment
 ##
